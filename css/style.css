@@ -1,0 +1,17 @@
+.green { 
+ background-color: rgb(83, 129, 53); 
+ height: 20vh; 
+} 
+.yellow { 
+ background-color: rgb(255, 255, 0); 
+ height: 80vh; 
+} 
+.red { 
+ background-color: red; 
+ height: 80vh; 
+} 
+.blue { 
+ background-color: rgb(0, 112, 192); 
+ height: 80vh; 
+}
+
